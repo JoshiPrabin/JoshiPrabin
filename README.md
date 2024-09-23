@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Prabin Joshi, a Computer Engineering Student and a cybersecurity enthusiast.
+I'm Prabin Joshi, a Computer Engineering Student and a Cybersecurity Enthusiast.
 
 <!--
 **JoshiPrabin/JoshiPrabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
